@@ -31,7 +31,7 @@
     margin-right: 10%;
 }
 
-#epicureButton {
+#menuButton {
     font-family: HelveticaNeue;
     font-size: 27px;
     font-weight: 100;
@@ -46,7 +46,7 @@
     margin-left: 10px
 }
 
-#epicureButton:hover {
+#menuButton:hover {
     opacity: 0.5;
 }
 
